@@ -68,9 +68,6 @@ Deploy the WAR file to Apache Tomcat and start the server.
 5️⃣ Access the application:
 
 Open your browser and go to:
-arduino
-Copy
-Edit
 http://localhost:8080/CollegeAdmissions
 📸 Screenshots
 🔹 [Add screenshots of login, dashboard, and CRUD operations here]
@@ -88,5 +85,7 @@ arduino
 Copy
 Edit
 
-This README is **structured, professional, and engaging**. It includes project details, tech stack, setup instructions,
+
+This README is **structured, professional, and engaging**. It includes project details, tech stack, setup instructions, and contact information. Let me know if you need any modifications! 🚀
+
 
