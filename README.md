@@ -81,10 +81,6 @@ http://localhost:8080/CollegeAdmissions
 🚀 GitHub: alwaysdaya123
 
 🌟 If you find this project useful, don't forget to star ⭐ the repository!
-arduino
-Copy
-Edit
-
 
 This README is **structured, professional, and engaging**. It includes project details, tech stack, setup instructions, and contact information. Let me know if you need any modifications! 🚀
 
