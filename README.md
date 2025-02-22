@@ -55,4 +55,38 @@ This system performs **CRUD operations** using **Java Full Stack technologies**.
 1️⃣ **Clone the repository:**  
 ```sh
 git clone https://github.com/alwaysdaya123/College-Admissions-Management-System.git
+2️⃣ Configure the database:
+
+Update application.properties with your MySQL credentials.
+3️⃣ Run the application:
+
+Open the project in Eclipse/IntelliJ IDEA.
+Build and run the project.
+4️⃣ Deploy on Tomcat:
+
+Deploy the WAR file to Apache Tomcat and start the server.
+5️⃣ Access the application:
+
+Open your browser and go to:
+arduino
+Copy
+Edit
+http://localhost:8080/CollegeAdmissions
+📸 Screenshots
+🔹 [Add screenshots of login, dashboard, and CRUD operations here]
+
+🤝 Contribution
+🔹 Feel free to contribute! Fork the repository, make improvements, and submit a pull request.
+
+📫 Contact
+📧 Email: alwaysdaya123@gmail.com
+🔗 LinkedIn: Rentamallu Dayakar
+🚀 GitHub: alwaysdaya123
+
+🌟 If you find this project useful, don't forget to star ⭐ the repository!
+arduino
+Copy
+Edit
+
+This README is **structured, professional, and engaging**. It includes project details, tech stack, setup instructions,
 
