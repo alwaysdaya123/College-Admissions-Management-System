@@ -1,0 +1,16 @@
+
+---
+
+## 🎯 How to Run the Project  
+
+### Prerequisites  
+✅ Install **Java JDK 8+**  
+✅ Install **MySQL** & Create a database  
+✅ Install **Apache Tomcat**  
+✅ Install **Eclipse/IntelliJ IDEA**  
+✅ Install **Postman** (Optional, for API testing)  
+
+### Steps to Run  
+1️⃣ **Clone the repository:**  
+```sh
+git clone https://github.com/your-username/College-Admissions-Management-System.git
